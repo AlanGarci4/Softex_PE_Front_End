@@ -1,0 +1,35 @@
+body{
+    background-color: #a6a2b6;
+}
+.btnExercicio7{
+    padding: 10px 8px;
+    width: 90px;
+    color: greenyellow;
+    background: #202020;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #4935ab;
+    transition: background 1seg;
+}
+.btnExercicio8{
+    padding: 10px 8px;
+    width: 90px;
+    color: greenyellow;
+    background: #202020;
+    border: 1px solid #555;
+    border-radius: 10px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #4935ab;
+    transition: background 1seg;
+}
