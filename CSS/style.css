@@ -13,7 +13,7 @@ body{
     cursor: pointer;
 }
 
-.btn:hover{
+.btnExercicio7:hover{
     background: #4935ab;
     transition: background 1seg;
 }
@@ -29,7 +29,7 @@ body{
     cursor: pointer;
 }
 
-.btn:hover{
+.btnExercicio8:hover{
     background: #4935ab;
     transition: background 1seg;
 }
